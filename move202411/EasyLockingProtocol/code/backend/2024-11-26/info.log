@@ -1,0 +1,83 @@
+2024-11-26 11:59:02.058	info	/Users/a123/Documents/go-project/tokenVestingProtocol/initialize/gorm.go:66	register table success
+2024-11-26 12:01:05.373	info	/Users/a123/Documents/go-project/tokenVestingProtocol/initialize/router.go:60	register swagger handler
+2024-11-26 12:02:32.464	info	/Users/a123/Documents/go-project/tokenVestingProtocol/initialize/router.go:60	register swagger handler
+2024-11-26 12:02:32.465	info	/Users/a123/Documents/go-project/tokenVestingProtocol/initialize/router.go:86	router register success
+2024-11-26 12:02:32.465	info	/Users/a123/Documents/go-project/tokenVestingProtocol/core/server.go:33	server run success on 	{"address": ":8888"}
+2024-11-26 12:05:43.652	info	/Users/a123/Documents/go-project/tokenVestingProtocol/initialize/router.go:60	register swagger handler
+2024-11-26 12:05:43.652	info	/Users/a123/Documents/go-project/tokenVestingProtocol/initialize/router.go:86	router register success
+2024-11-26 12:05:43.652	info	/Users/a123/Documents/go-project/tokenVestingProtocol/core/server.go:33	server run success on 	{"address": ":8888"}
+2024-11-26 12:30:06.455	info	/Users/a123/Documents/go-project/tokenVestingProtocol/initialize/gorm.go:37	register table success
+2024-11-26 12:30:06.455	info	/Users/a123/Documents/go-project/tokenVestingProtocol/initialize/router.go:60	register swagger handler
+2024-11-26 12:30:06.455	info	/Users/a123/Documents/go-project/tokenVestingProtocol/initialize/router.go:86	router register success
+2024-11-26 12:30:06.455	info	/Users/a123/Documents/go-project/tokenVestingProtocol/core/server.go:33	server run success on 	{"address": ":8888"}
+2024-11-26 14:51:04.825	info	/Users/a123/Documents/go-project/tokenVestingProtocol/initialize/router.go:60	register swagger handler
+2024-11-26 14:51:04.825	info	/Users/a123/Documents/go-project/tokenVestingProtocol/initialize/router.go:86	router register success
+2024-11-26 14:51:04.825	info	/Users/a123/Documents/go-project/tokenVestingProtocol/core/server.go:33	server run success on 	{"address": ":8888"}
+2024-11-26 14:54:24.459	info	/Users/a123/Documents/go-project/tokenVestingProtocol/initialize/gorm.go:37	register table success
+2024-11-26 14:54:24.460	info	/Users/a123/Documents/go-project/tokenVestingProtocol/initialize/router.go:60	register swagger handler
+2024-11-26 14:54:24.460	info	/Users/a123/Documents/go-project/tokenVestingProtocol/initialize/router.go:86	router register success
+2024-11-26 14:54:24.460	info	/Users/a123/Documents/go-project/tokenVestingProtocol/core/server.go:33	server run success on 	{"address": ":8888"}
+2024-11-26 14:54:53.132	info	/Users/a123/Documents/go-project/tokenVestingProtocol/initialize/gorm.go:37	register table success
+2024-11-26 14:54:53.132	info	/Users/a123/Documents/go-project/tokenVestingProtocol/initialize/router.go:60	register swagger handler
+2024-11-26 14:54:53.132	info	/Users/a123/Documents/go-project/tokenVestingProtocol/initialize/router.go:86	router register success
+2024-11-26 14:54:53.132	info	/Users/a123/Documents/go-project/tokenVestingProtocol/core/server.go:33	server run success on 	{"address": ":8888"}
+2024-11-26 15:43:33.553	info	/Users/a123/Documents/go-project/tokenVestingProtocol/initialize/gorm.go:40	register table success
+2024-11-26 15:43:33.554	info	/Users/a123/Documents/go-project/tokenVestingProtocol/initialize/router.go:60	register swagger handler
+2024-11-26 15:43:33.554	info	/Users/a123/Documents/go-project/tokenVestingProtocol/initialize/router.go:86	router register success
+2024-11-26 15:43:33.554	info	/Users/a123/Documents/go-project/tokenVestingProtocol/core/server.go:33	server run success on 	{"address": ":8888"}
+2024-11-26 19:23:13.049	info	/Users/a123/Documents/go-project/tokenVestingProtocol/initialize/gorm.go:40	register table success
+2024-11-26 19:23:13.049	info	/Users/a123/Documents/go-project/tokenVestingProtocol/initialize/router.go:61	register swagger handler
+2024-11-26 19:23:13.050	info	/Users/a123/Documents/go-project/tokenVestingProtocol/initialize/router.go:88	router register success
+2024-11-26 19:23:13.050	info	/Users/a123/Documents/go-project/tokenVestingProtocol/core/server.go:33	server run success on 	{"address": ":8888"}
+2024-11-26 19:27:42.760	info	/Users/a123/Documents/go-project/tokenVestingProtocol/initialize/gorm.go:40	register table success
+2024-11-26 19:27:42.760	info	/Users/a123/Documents/go-project/tokenVestingProtocol/initialize/router.go:61	register swagger handler
+2024-11-26 19:27:42.760	info	/Users/a123/Documents/go-project/tokenVestingProtocol/initialize/router.go:88	router register success
+2024-11-26 19:27:42.760	info	/Users/a123/Documents/go-project/tokenVestingProtocol/core/server.go:33	server run success on 	{"address": ":8888"}
+2024-11-26 19:42:06.651	info	/Users/a123/Documents/go-project/tokenVestingProtocol/initialize/gorm.go:40	register table success
+2024-11-26 19:42:06.651	info	/Users/a123/Documents/go-project/tokenVestingProtocol/initialize/router.go:61	register swagger handler
+2024-11-26 19:42:06.651	info	/Users/a123/Documents/go-project/tokenVestingProtocol/initialize/router.go:88	router register success
+2024-11-26 19:42:06.652	info	/Users/a123/Documents/go-project/tokenVestingProtocol/core/server.go:33	server run success on 	{"address": ":8888"}
+2024-11-26 19:43:50.225	info	/Users/a123/Documents/go-project/tokenVestingProtocol/initialize/gorm.go:40	register table success
+2024-11-26 19:43:50.225	info	/Users/a123/Documents/go-project/tokenVestingProtocol/initialize/router.go:61	register swagger handler
+2024-11-26 19:43:50.225	info	/Users/a123/Documents/go-project/tokenVestingProtocol/initialize/router.go:88	router register success
+2024-11-26 19:43:50.225	info	/Users/a123/Documents/go-project/tokenVestingProtocol/core/server.go:33	server run success on 	{"address": ":8888"}
+2024-11-26 19:44:45.657	info	/Users/a123/Documents/go-project/tokenVestingProtocol/initialize/gorm.go:40	register table success
+2024-11-26 19:44:45.658	info	/Users/a123/Documents/go-project/tokenVestingProtocol/initialize/router.go:61	register swagger handler
+2024-11-26 19:44:45.658	info	/Users/a123/Documents/go-project/tokenVestingProtocol/initialize/router.go:88	router register success
+2024-11-26 19:44:45.658	info	/Users/a123/Documents/go-project/tokenVestingProtocol/core/server.go:33	server run success on 	{"address": ":8888"}
+2024-11-26 21:55:28.888	info	/Users/a123/Documents/go-project/tokenVestingProtocol/initialize/gorm.go:40	register table success
+2024-11-26 21:55:28.888	info	/Users/a123/Documents/go-project/tokenVestingProtocol/initialize/router.go:61	register swagger handler
+2024-11-26 21:55:28.889	info	/Users/a123/Documents/go-project/tokenVestingProtocol/initialize/router.go:88	router register success
+2024-11-26 21:55:28.889	info	/Users/a123/Documents/go-project/tokenVestingProtocol/core/server.go:33	server run success on 	{"address": ":8888"}
+2024-11-26 21:57:11.834	info	/Users/a123/Documents/go-project/tokenVestingProtocol/initialize/gorm.go:40	register table success
+2024-11-26 21:57:11.835	info	/Users/a123/Documents/go-project/tokenVestingProtocol/initialize/router.go:61	register swagger handler
+2024-11-26 21:57:11.835	info	/Users/a123/Documents/go-project/tokenVestingProtocol/initialize/router.go:88	router register success
+2024-11-26 21:57:11.835	info	/Users/a123/Documents/go-project/tokenVestingProtocol/core/server.go:33	server run success on 	{"address": ":8888"}
+2024-11-26 21:58:32.824	info	/Users/a123/Documents/go-project/tokenVestingProtocol/initialize/gorm.go:40	register table success
+2024-11-26 21:58:32.825	info	/Users/a123/Documents/go-project/tokenVestingProtocol/initialize/router.go:61	register swagger handler
+2024-11-26 21:58:32.825	info	/Users/a123/Documents/go-project/tokenVestingProtocol/initialize/router.go:88	router register success
+2024-11-26 21:58:32.825	info	/Users/a123/Documents/go-project/tokenVestingProtocol/core/server.go:33	server run success on 	{"address": ":8888"}
+2024-11-26 21:59:14.486	info	/Users/a123/Documents/go-project/tokenVestingProtocol/initialize/gorm.go:40	register table success
+2024-11-26 21:59:14.486	info	/Users/a123/Documents/go-project/tokenVestingProtocol/initialize/router.go:61	register swagger handler
+2024-11-26 21:59:14.486	info	/Users/a123/Documents/go-project/tokenVestingProtocol/initialize/router.go:88	router register success
+2024-11-26 21:59:14.486	info	/Users/a123/Documents/go-project/tokenVestingProtocol/core/server.go:33	server run success on 	{"address": ":8888"}
+2024-11-26 22:40:05.183	info	/Users/a123/Documents/go-project/tokenVestingProtocol/initialize/gorm.go:40	register table success
+2024-11-26 22:40:05.184	info	/Users/a123/Documents/go-project/tokenVestingProtocol/initialize/router.go:61	register swagger handler
+2024-11-26 22:40:05.184	info	/Users/a123/Documents/go-project/tokenVestingProtocol/initialize/router.go:88	router register success
+2024-11-26 22:40:05.184	info	/Users/a123/Documents/go-project/tokenVestingProtocol/core/server.go:33	server run success on 	{"address": ":8888"}
+2024-11-26 22:54:32.577	info	/Users/a123/Documents/go-project/tokenVestingProtocol/initialize/gorm.go:40	register table success
+2024-11-26 22:54:32.577	info	/Users/a123/Documents/go-project/tokenVestingProtocol/initialize/router.go:61	register swagger handler
+2024-11-26 22:54:32.577	info	/Users/a123/Documents/go-project/tokenVestingProtocol/initialize/router.go:88	router register success
+2024-11-26 22:54:32.578	info	/Users/a123/Documents/go-project/tokenVestingProtocol/core/server.go:33	server run success on 	{"address": ":8888"}
+2024-11-26 22:56:30.549	info	/Users/a123/Documents/go-project/tokenVestingProtocol/initialize/gorm.go:40	register table success
+2024-11-26 22:56:30.549	info	/Users/a123/Documents/go-project/tokenVestingProtocol/initialize/router.go:61	register swagger handler
+2024-11-26 22:56:30.549	info	/Users/a123/Documents/go-project/tokenVestingProtocol/initialize/router.go:88	router register success
+2024-11-26 22:56:30.550	info	/Users/a123/Documents/go-project/tokenVestingProtocol/core/server.go:33	server run success on 	{"address": ":8888"}
+2024-11-26 22:59:06.189	info	/Users/a123/Documents/go-project/tokenVestingProtocol/initialize/gorm.go:40	register table success
+2024-11-26 22:59:06.189	info	/Users/a123/Documents/go-project/tokenVestingProtocol/initialize/router.go:61	register swagger handler
+2024-11-26 22:59:06.189	info	/Users/a123/Documents/go-project/tokenVestingProtocol/initialize/router.go:88	router register success
+2024-11-26 22:59:06.189	info	/Users/a123/Documents/go-project/tokenVestingProtocol/core/server.go:33	server run success on 	{"address": ":8888"}
+2024-11-26 23:03:26.865	info	/Users/a123/Documents/go-project/tokenVestingProtocol/initialize/gorm.go:40	register table success
+2024-11-26 23:03:26.865	info	/Users/a123/Documents/go-project/tokenVestingProtocol/initialize/router.go:61	register swagger handler
+2024-11-26 23:03:26.865	info	/Users/a123/Documents/go-project/tokenVestingProtocol/initialize/router.go:88	router register success
+2024-11-26 23:03:26.865	info	/Users/a123/Documents/go-project/tokenVestingProtocol/core/server.go:33	server run success on 	{"address": ":8888"}
