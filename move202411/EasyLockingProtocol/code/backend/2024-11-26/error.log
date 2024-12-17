@@ -1,0 +1,24 @@
+2024-11-26 12:03:03.215	error	/Users/a123/Documents/go-project/tokenVestingProtocol/utils/claims.go:50	重新写入cookie token失败,未能成功解析token,请检查请求头是否存在x-token且claims是否为规定结构
+2024-11-26 12:03:12.945	error	/Users/a123/Documents/go-project/tokenVestingProtocol/utils/claims.go:50	重新写入cookie token失败,未能成功解析token,请检查请求头是否存在x-token且claims是否为规定结构
+2024-11-26 12:03:18.865	error	/Users/a123/Documents/go-project/tokenVestingProtocol/core/server.go:35	accept tcp [::]:8888: use of closed network connection
+2024-11-26 12:05:54.414	error	/Users/a123/Documents/go-project/tokenVestingProtocol/core/server.go:35	accept tcp [::]:8888: use of closed network connection
+2024-11-26 12:30:47.502	error	/Users/a123/Documents/go-project/tokenVestingProtocol/core/server.go:35	accept tcp [::]:8888: use of closed network connection
+2024-11-26 14:51:13.052	error	/Users/a123/Documents/go-project/tokenVestingProtocol/core/server.go:35	accept tcp [::]:8888: use of closed network connection
+2024-11-26 14:54:49.218	error	/Users/a123/Documents/go-project/tokenVestingProtocol/core/server.go:35	accept tcp [::]:8888: use of closed network connection
+2024-11-26 15:43:29.723	error	/Users/a123/Documents/go-project/tokenVestingProtocol/core/server.go:35	accept tcp [::]:8888: use of closed network connection
+2024-11-26 15:57:25.617	error	/Users/a123/Documents/go-project/tokenVestingProtocol/core/server.go:35	accept tcp [::]:8888: use of closed network connection
+2024-11-26 19:27:39.047	error	/Users/a123/Documents/go-project/tokenVestingProtocol/core/server.go:35	accept tcp [::]:8888: use of closed network connection
+2024-11-26 19:42:02.306	error	/Users/a123/Documents/go-project/tokenVestingProtocol/core/server.go:35	accept tcp [::]:8888: use of closed network connection
+2024-11-26 19:43:45.816	error	/Users/a123/Documents/go-project/tokenVestingProtocol/core/server.go:35	accept tcp [::]:8888: use of closed network connection
+2024-11-26 19:44:41.727	error	/Users/a123/Documents/go-project/tokenVestingProtocol/core/server.go:35	accept tcp [::]:8888: use of closed network connection
+2024-11-26 19:48:16.673	error	/Users/a123/Documents/go-project/tokenVestingProtocol/core/server.go:35	accept tcp [::]:8888: use of closed network connection
+2024-11-26 21:57:07.545	error	/Users/a123/Documents/go-project/tokenVestingProtocol/core/server.go:35	accept tcp [::]:8888: use of closed network connection
+2024-11-26 21:57:57.788	error	/Users/a123/Documents/go-project/tokenVestingProtocol/core/server.go:35	accept tcp [::]:8888: use of closed network connection
+2024-11-26 21:59:10.614	error	/Users/a123/Documents/go-project/tokenVestingProtocol/core/server.go:35	accept tcp [::]:8888: use of closed network connection
+2024-11-26 22:40:01.240	error	/Users/a123/Documents/go-project/tokenVestingProtocol/core/server.go:35	accept tcp [::]:8888: use of closed network connection
+2024-11-26 22:54:26.364	error	/Users/a123/Documents/go-project/tokenVestingProtocol/core/server.go:35	accept tcp [::]:8888: use of closed network connection
+2024-11-26 22:56:15.101	error	/Users/a123/Documents/go-project/tokenVestingProtocol/core/server.go:35	accept tcp [::]:8888: use of closed network connection
+2024-11-26 22:59:01.864	error	/Users/a123/Documents/go-project/tokenVestingProtocol/core/server.go:35	accept tcp [::]:8888: use of closed network connection
+2024-11-26 23:03:22.227	error	/Users/a123/Documents/go-project/tokenVestingProtocol/core/server.go:35	accept tcp [::]:8888: use of closed network connection
+2024-11-26 23:03:30.261	error	/Users/a123/Documents/go-project/tokenVestingProtocol/utils/claims.go:49	重新写入cookie token失败,未能成功解析token,请检查请求头是否存在x-token且claims是否为规定结构
+2024-11-26 23:05:36.601	error	/Users/a123/Documents/go-project/tokenVestingProtocol/core/server.go:35	accept tcp [::]:8888: use of closed network connection
